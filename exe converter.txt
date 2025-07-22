@@ -1,0 +1,5 @@
+pyinstaller --onefile --icon=C:\Users\email\Desktop\Jarvis1\Ironman.png Jarvis.py
+pyinstaller --onefile --hidden-import=gtts Jarvis.py
+pyinstaller --onefile --icon="C:\Users\email\Desktop\Jarvis1\Ironman.png" --hidden-import=gtts Jarvis.py
+
+
