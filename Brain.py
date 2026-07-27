@@ -158,9 +158,7 @@ def get_system_info():
     
 
 
-# Set your DeepSeek API key
-# DEEPSEEK_API_KEY = "sk-6f95826baa104afdbfe6edbc140e7beb"
-# deepseek_enabled = False
+
 
 # def chat_with_deepseek(text):
 #     text = str(STT()).lower()
