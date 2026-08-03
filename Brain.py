@@ -5,6 +5,8 @@ try :
     import psutil
     import pyttsx3
     import os
+    import pytorch
+    import numpy
     import psutil
     import GPUtil
     import pyttsx3
