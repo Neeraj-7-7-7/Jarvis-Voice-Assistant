@@ -4,8 +4,8 @@ import pyautogui
 import webbrowser
 import TTS
 import STT
-import pytorch
-import numpy
+
+
 dictapp = {"notepad":"notepad","calculator":"calc","chrome":"chrome","brave":"brave","vs code":"code","paint":"mspaint"}
 
 def open_app(text):
