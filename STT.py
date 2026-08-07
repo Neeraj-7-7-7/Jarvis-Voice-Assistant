@@ -2,6 +2,8 @@ import threading
 import speech_recognition as sr
 import time
 import TTS
+import pytorch
+import numpy
 
 sleep_mode = False  # Global flag to track sleep state
 import subprocess
