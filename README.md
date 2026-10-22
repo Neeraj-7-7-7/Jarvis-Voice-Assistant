@@ -61,9 +61,7 @@ WhatsApp/Telegram integration
 
 Smart reminders and alarms
 
-Voice-controlled music playback
-
-Offline mode with Vosk or Whisper
+Voice-controlled music 
 
 🤝 Contributing
 Got ideas? Found a bug? Feel free to open an issue or submit a pull request!
