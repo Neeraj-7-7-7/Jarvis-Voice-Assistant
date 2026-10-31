@@ -2,7 +2,6 @@
 Jarvis is an AI-powered desktop voice assistant built in Python that helps you interact with your computer using natural voice command. Designed to be simple yet powerful,Jarvis can perform a wide range of tasks—just speak, it responds intelligently.
 
 
-
 ✨ Features
 🎤 Voice Command Recognition by using Google's Speech Recognition API
 
