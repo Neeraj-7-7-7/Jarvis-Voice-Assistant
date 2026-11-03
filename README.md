@@ -44,7 +44,6 @@ python Jarvis.py
 Just run the program and start speaking commands like:
 
 Jarvis, open YouTube
-
 Jarvis, search Python tutorials
 
 Jarvis, type Hello, how are you?
