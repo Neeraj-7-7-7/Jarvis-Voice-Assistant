@@ -15,7 +15,7 @@ Jarvis is an AI-powered desktop voice assistant built in Python that helps you i
 
 📊 College Attendance Fetch – Automatically logs into your college portal and reads your attendance
 
-🔐 Secure Login Options – Option to add voice or password security
+🔐 Secure Login Options – Option to add voice and password security
 
 🔄 Modular Design – Easy to add new commands and extend functionality
 
